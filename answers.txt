@@ -1,0 +1,2 @@
+What is a remote repository?
+A repo stored online, not on your local device.
