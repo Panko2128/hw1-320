@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+A merge splices two branches together at the ends, while a rebase sticks one onto the other
+and pretends it was like that all along.
